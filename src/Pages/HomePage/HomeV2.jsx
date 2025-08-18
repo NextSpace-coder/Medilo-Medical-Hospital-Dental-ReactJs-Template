@@ -45,7 +45,7 @@ const HeroData = {
     {
       icon: 'assets/img/icons/message_icon_1.png',
       title: 'Your Message',
-      subtitle: 'medixo25822@gmail.com',
+      subtitle: 'support@example.com',
       buttonHref: '/appointments',
       buttonText: 'Appointment Now',
     },

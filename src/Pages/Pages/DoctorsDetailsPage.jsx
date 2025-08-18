@@ -31,7 +31,7 @@ const doctorDetails = {
       subtitle: 'Dhaka, Dhaka 31',
       secIcon: <FaEnvelope />,
       secTitle: 'E-mail:',
-      secSubtitle: 'ranst@g-mail.com',
+      secSubtitle: 'doctor@example.com',
     },
     {
       icon: <FaCertificate />,
