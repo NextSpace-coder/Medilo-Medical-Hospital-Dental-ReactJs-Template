@@ -10,7 +10,7 @@ import {
 import { Link } from 'react-router-dom';
 
 const data = {
-  backgroundImage: 'assets/img/footer_bg.jpg',
+  backgroundImage: 'https://images.unsplash.com/photo-1666886573421-d19e546cfc4e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHwyfHxtZWRpY2FsJTIwZG9jdG9yJTIwaGVhbHRoY2FyZSUyMHByb2Zlc3Npb25hbHxlbnwwfHx8fDE3NTU1ODQzODh8MA&ixlib=rb-4.1.0&q=85',
   logo: '/assets/img/footer_logo.svg',
   contact: [
     {
@@ -57,13 +57,13 @@ const data = {
   recentPosts: [
     {
       href: '/blog/blog-details',
-      image: 'assets/img/recent_post_1.png',
+      image: 'https://images.unsplash.com/photo-1666886573699-f1964bcc9ebe?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHw0fHxtZWRpY2FsJTIwZG9jdG9yJTIwaGVhbHRoY2FyZSUyMHByb2Zlc3Npb25hbHxlbnwwfHx8fDE3NTU1ODQzODh8MA&ixlib=rb-4.1.0&q=85',
       date: '23 jun 2024',
       title: 'We round Solution york Blog',
     },
     {
       href: '/blog/blog-details',
-      image: 'assets/img/recent_post_2.png',
+      image: 'https://images.unsplash.com/photo-1584982751601-97dcc096659c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHw4fHxtZWRpY2FsJTIwZG9jdG9yJTIwaGVhbHRoY2FyZSUyMHByb2Zlc3Npb25hbHxlbnwwfHx8fDE3NTU1ODQzODh8MA&ixlib=rb-4.1.0&q=85',
       date: '20 jun 2024',
       title: 'The Medical Of This Working Health',
     },
@@ -79,7 +79,7 @@ const data = {
 
 const Footer = () => {
   const data = {
-    backgroundImage: '/assets/img/footer_bg.jpg',
+    backgroundImage: 'https://images.unsplash.com/photo-1690306815542-3c0e7b85e996?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHwxfHxob3NwaXRhbCUyMG1lZGljYWwlMjBlcXVpcG1lbnQlMjBzdGV0aG9zY29wZXxlbnwwfHx8fDE3NTU1ODQzODl8MA&ixlib=rb-4.1.0&q=85',
     logo: '/assets/img/footer_logo.svg',
     contactText:
       'Open Hours of Government: <br /> Mon - Fri: 8.00 am. - 6.00 pm.',
@@ -114,13 +114,13 @@ const Footer = () => {
     recentPosts: [
       {
         href: '/blog/blog-details',
-        image: '/assets/img/recent_post_1.png',
+        image: 'https://images.unsplash.com/photo-1666886573553-6548db92db79?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHwzfHxtZWRpY2FsJTIwZG9jdG9yJTIwaGVhbHRoY2FyZSUyMHByb2Zlc3Npb25hbHxlbnwwfHx8fDE3NTU1ODQzODh8MA&ixlib=rb-4.1.0&q=85',
         date: '23 jun 2024',
         title: 'We round Solution york Blog',
       },
       {
         href: '/blog/blog-details',
-        image: '/assets/img/recent_post_2.png',
+        image: 'https://images.unsplash.com/photo-1638202993928-7267aad84c31?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHwxMHx8bWVkaWNhbCUyMGRvY3RvciUyMGhlYWx0aGNhcmUlMjBwcm9mZXNzaW9uYWx8ZW58MHx8fHwxNzU1NTg0Mzg4fDA&ixlib=rb-4.1.0&q=85',
         date: '20 jun 2024',
         title: 'The Medical Of This Working Health',
       },

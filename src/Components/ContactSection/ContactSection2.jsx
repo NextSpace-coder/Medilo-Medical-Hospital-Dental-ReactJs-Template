@@ -42,13 +42,13 @@ const ContactSection2 = () => {
             </form>
             </div>
             <div className="col-lg-6">
-              <div className="cs_solution_thumbnail cs_bg_filed" data-background="/assets/img/medical_solution_1.jpg" >
+              <div className="cs_solution_thumbnail cs_bg_filed" data-background="https://images.unsplash.com/photo-1666886573230-2b730505f298?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHwxfHxtZWRpY2FsJTIwZG9jdG9yJTIwaGVhbHRoY2FyZSUyMHByb2Zlc3Npb25hbHxlbnwwfHx8fDE3NTU1ODQzODh8MA&ixlib=rb-4.1.0&q=85" >
               </div>
             </div>
           </div>
         </div>
         <div className="cs_solution_shape position-absolute">
-          <img src="/assets/img/stethoscope.png" alt="Shape" />
+          <img src="https://images.unsplash.com/photo-1617286809909-8c2daf5f8eb7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NjI1MDB8MHwxfHNlYXJjaHwxMHx8aG9zcGl0YWwlMjBtZWRpY2FsJTIwZXF1aXBtZW50JTIwc3RldGhvc2NvcGV8ZW58MHx8fHwxNzU1NTg0Mzg5fDA&ixlib=rb-4.1.0&q=85" alt="Shape" />
         </div>
         <div className="cs_height_120 cs_height_lg_80"></div>
       </section>
